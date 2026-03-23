@@ -9,7 +9,6 @@ The code is released to support **reproducibility** of the experiments reported 
 ## 📄 Paper
 
 **MixGCN: Accelerating Graph Convolutional Networks via Adaptive Activation Mixing**  
-*Knowledge-Based Systems (KBS), under review.*
 
 If you use this code in your research, please consider citing:
 
